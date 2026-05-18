@@ -15,3 +15,4 @@ Un sistema de chat de escritorio e intercambio de archivos en red local (LAN) de
 ├── cliente.py            # Cliente de chat (Interfaz Tkinter)
 ├── requirements.txt     # Dependencias del proyecto
 └── README.md            # Documentación principal
+└── ips_port.json            # Direcciones ip y puerto para conectarse siempre presente al lado de cliente
